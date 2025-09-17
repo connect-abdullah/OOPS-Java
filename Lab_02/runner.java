@@ -1,3 +1,4 @@
+package Lab_02;
 // LAB Task 1
 
 /* class Circle {
@@ -127,6 +128,7 @@ public class runner {
     }
 } */
 
+import Time;
 
 class Time {
     private int hr;
