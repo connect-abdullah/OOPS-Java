@@ -1,4 +1,7 @@
 // Lab Task 1
+
+import Lab_05.Book;
+
 class Distance {
     private int feet;
     private int inches;
